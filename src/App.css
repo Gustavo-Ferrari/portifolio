@@ -1,0 +1,23 @@
+*{
+  margin: 0;
+  padding: 0;
+  background-color: black;
+}
+
+.imagem {
+  margin-top: 1em;
+  width: 10%;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.subheader > a{
+  color: #ffff;
+  display: inline-block;
+  margin-right: 2em;
+  margin-top: 1em;
+  padding: 1em;
+}
